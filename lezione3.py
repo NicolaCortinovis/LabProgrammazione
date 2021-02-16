@@ -21,4 +21,3 @@ def somma_elementi_lista(lista):
     return somma
 
 print("La somma di tutti i valori delle vendite degli shampoo del file shampoo_sales.csv e' uguale a {}".format(somma_elementi_lista(values)))
-    
